@@ -4,22 +4,17 @@ Ingregientes:
 - Pescado
 - Limón
 - ají
-<<<<<<< HEAD
 -sal
 -ajinomoto
 - pimienta
-=======
 - sal
 - camote
 - lechuga
-- chancha
->>>>>>> 13e5326876907a5efd89dcdd9d40745245c0219f
 
 Preparación:
 - Exprimir los limones.
 - Cortar el pescado en cubos.
 - Cortar el ají (dejar la pepa si desea que sea muy picante).
-<<<<<<< HEAD
 - poner el limon en el recipiente del pescago
 - agregar la sal
 -agregar pimienta
@@ -31,9 +26,7 @@ Preparación:
 -agregar nuevamente sal ya que la cebolla le quita un poco de gusto
 - Mezclar los ingredientes en un recipiente.
 -y seervir
-=======
 - Mezclar los ingredientes en un recipiente.
 - Limpiar todo.
 
 TIP: si no sale bien, ir a comprar a una cevicheria.
->>>>>>> 13e5326876907a5efd89dcdd9d40745245c0219f
